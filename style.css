@@ -2,6 +2,7 @@ body {
     background-color: #222222;
     color: #ffffff;
     margin: 0;
+    font-family: Helvetica, sans-serif;
 }
 
 header {
@@ -39,8 +40,14 @@ header {
     font-size: large;
 }
 
-main{
+.main-container{
     max-width: 600px;
-    background-color: #000000;
     margin: auto;
+    padding-top: 30px;
+}
+.content-container{
+    background-color: #000000;
+    border: solid 1px #7a7a7a;
+    margin: 20px 0px;
+    padding: 20px;
 }

@@ -18,3 +18,9 @@ header {
     gap: 30px;
     margin: 0 20px;
 }
+
+main{
+    max-width: 600px;
+    background-color: #000000;
+    margin: auto;
+}

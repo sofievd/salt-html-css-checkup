@@ -19,6 +19,15 @@ header {
     margin: 0 20px;
 }
 
+.button-member{
+    border: solid 2px #6a988b;
+    background-color: #000000;
+    color: #6a988b;
+    border-radius: 15px;
+    padding:5px 10px;
+    font-size: large;
+}
+
 main{
     max-width: 600px;
     background-color: #000000;
